@@ -16,29 +16,3 @@ CNN/
 │   └── main.py
 └── Executable/        # Executable binaries directory
 ```
-
-## Getting Started
-
-### C++ (CMake)
-
-Configure and compile the C++ project:
-
-```powershell
-# Configure build
-cmake -S Cpp -B Cpp/build
-
-# Compile
-cmake --build Cpp/build
-```
-
-### Python
-
-Activate the virtual environment and install packages:
-
-```powershell
-# Activate venv (PowerShell)
-.\Python\.venv\Scripts\Activate.ps1
-
-# Install dependencies (when added to requirements.txt)
-pip install -r Python\requirements.txt
-```
