@@ -1,0 +1,40 @@
+# Build directories
+build/
+bin/
+lib/
+Cpp/build/
+Cpp/bin/
+Cpp/lib/
+
+# C/C++ compiled objects and binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.pdb
+*.ilk
+compile_commands.json
+.cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# IDE / Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,19 @@
+# Build outputs
+build/
+bin/
+lib/
+
+# Object files & binaries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Editor and compiler auxiliary files
+compile_commands.json
+.cache/
+

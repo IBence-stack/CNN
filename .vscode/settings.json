@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.stickyScroll.enabled": false,
+    "cmake.sourceDirectory": "C:/Git/CNN/CNN/Cpp",
+    "python.defaultInterpreterPath": "${workspaceFolder}/Python/.venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+        "PATH": "${workspaceFolder}\\Python\\.venv\\Scripts;${env:PATH}"
+    }
+}
